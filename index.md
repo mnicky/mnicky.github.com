@@ -10,7 +10,7 @@ Hi, I'm **Mnicky** and this is my webpage.
 
 * **webpage:** <http://mnicky.github.com>
 * **git repos:** <https://github.com/mnicky>
-* **e-mail:** mnicky-at-gmail-dot-com
+* **e-mail:** xmnicky-at-gmail-dot-com
 
 ## Code ##
 
