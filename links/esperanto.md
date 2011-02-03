@@ -11,7 +11,7 @@ title: Mnicky's Webpage
 
 * <http://eo.wikipedia.org> - Wikipedia in Esperanto
 
-* <http://en.wikipedia.org/wiki/Esperanto> - Wikipedia article on Esperanto (in English)
+* <http://en.wikipedia.org/wiki/Esperanto> - Wikipedia article on Esperanto \(in English\)
 
 ## Esperanto Links & Directories ##
 
@@ -49,7 +49,7 @@ title: Mnicky's Webpage
 * <http://akademio-de-esperanto.org/fundamento> - "Fundamento de Esperanto" by L. L. Zamenhof
 * <http://denizo.opia.dk/la.trezorejo/tekstoj/libroj.pdf/malovec-GRAMATIKO.DE.ESPERANTO.pdf> - Esperanto Grammar by M. Malovec
 * <http://esperanto.sorren.com/course/grammar.html> - Summary of Esperanto grammar
-* <http://en.wikibooks.org/wiki/Esperanto:_A_Complete_and_Comprehensive_Grammar> - Complete grammar of Esperanto (in early stage)
+* <http://en.wikibooks.org/wiki/Esperanto:_A_Complete_and_Comprehensive_Grammar> - Complete grammar of Esperanto \in early stage\)
 
 ## Textbooks ##
 
@@ -64,7 +64,7 @@ title: Mnicky's Webpage
 * <http://esperanto-panorama.net/angla/vortaro.htm> - The 552 most frequent Esperanto words
 * <http://esperanto-chicago.org/glossary.htm> - The 650 most frequent Esperanto words
 * <http://en.lernu.net/grafikajhoj/biblioteko/gazetoj/facila_vortolisto.pdf> - The 800 most used Esperanto word-roots
-* <http://xs4all.nl/~pilger/breo-au8.htm> - Collection of 2500 Esperanto word-roots (Baza Radikaro Oficiala)
+* <http://xs4all.nl/~pilger/breo-au8.htm> - Collection of 2500 Esperanto word-roots \(Baza Radikaro Oficiala\)
 * <http://xs4all.nl/~pilger/brenttu8.htm> - 2500 Basic Word Roots of Esperanto with translations in English
 * <http://remush.be/tezauro> - More Esperanto word-root glossaries
 * <http://byki.com/tag/basic-esperanto-vocabulary> - Cards with vocabulary from "Baza Radikaro Oficiala"
@@ -127,9 +127,9 @@ title: Mnicky's Webpage
 * <http://polskieradio.pl/eo> - Polish Radio in Esperanto
 * <http://members.aon.at/aldone/retradio/> - Archive of Esperanto broadcast of Polish Radio
 * <http://ameriko.org/radiokubo> - mp3 archive of Radio Havano Kubo
-* <http://zervic.com/chitienun/> - Cxi tie nun (offbeat news stories)
+* <http://zervic.com/chitienun/> - Cxi tie nun \(offbeat news stories\)
 * <http://melburno.org.au/3ZZZradio> - archive of 3ZZZ Radio in Esperanto
-* <http://radioaktiva.esperanto.org.uy Radio Aktiva (Uruguay)
+* <http://radioaktiva.esperanto.org.uy Radio Aktiva \(Uruguay\)
 
 * <http://radiovaticana.org/esp/index.asp> - Radio Vaticana in Esperanto
 * <http://radio-vatikana-esperanto.org> - Archive of Radio Vaticana in Esperanto
@@ -140,7 +140,7 @@ title: Mnicky's Webpage
 * <http://esperanto.org/literaturo/RealAudio> - More audio-books
 
 * <http://esperanto-panorama.net/angla/radio.htm> - Esperanto radio stations
-* <http://osiek.org/aera> - Another Esperanto radio stations (also non-internet ones)
+* <http://osiek.org/aera> - Another Esperanto radio stations \(also non-internet ones\)
 * <http://eo.wikipedia.org/wiki/Esperanto-radio> - More Esperanto radio stations
 
 ## Music ##
@@ -161,7 +161,7 @@ title: Mnicky's Webpage
 * <http://www2.friweb.hu/eventoj/steb> - Science & Technology texts
 * <http://edu.i-lo.tarnow.pl/esp/lern/librejo/index.php> - Some Polish Literature in Esperanto
 
-* <http://odaha.com/antoine-de-saint-exupery/maly-princ/la-eta-princo> - The Little Prince (online) with nice illustrations
+* <http://odaha.com/antoine-de-saint-exupery/maly-princ/la-eta-princo> - The Little Prince \(online\) with nice illustrations
 
 * <http://tekstaro.com> - Esperanto text analysis
 
@@ -190,7 +190,7 @@ title: Mnicky's Webpage
 * <http://linguisticblog.blogspot.com> - Esperanto linguistic blog
 * <http://antono.info/epo> - Blog of Antono Vasiljev
 * <http://legosalono.blogspot.com> - Fresh notices from other Esperanto blogs
-* <http://kiberio.com> - Articles from Esperanto Blogs (doesn't work in Opera browser)
+* <http://kiberio.com> - Articles from Esperanto Blogs \(doesn't work in Opera browser\)
 
 ## Chats & Forums ##
 
@@ -202,22 +202,22 @@ title: Mnicky's Webpage
 
 ## Social Networks ##
 
-* <http://facebook.com/pages/Esperanto/112347282113529> - Esperanto Facebook fan page (1)
-* <http://facebook.com/pages/Esperanto/24436595789 Esperanto Facebook fan page (2)
-* <http://facebook.com/learn.esperanto> - Esperanto Facebook fan page (3)
-* <http://facebook.com/Esperanton> - Esperanto Facebook fan page (4)
-* <http://facebook.com/group.php?gid=2204470288> - Esperanto Facebook Discussion group (1)
-* <http://facebook.com/group.php?gid=28698549395> - Esperanto Facebook Discussion group (2)
+* <http://facebook.com/pages/Esperanto/112347282113529> - Esperanto Facebook fan page \(1\)
+* <http://facebook.com/pages/Esperanto/24436595789 Esperanto Facebook fan page \(2\)
+* <http://facebook.com/learn.esperanto> - Esperanto Facebook fan page \(3\)
+* <http://facebook.com/Esperanton> - Esperanto Facebook fan page \(4\)
+* <http://facebook.com/group.php?gid=2204470288> - Esperanto Facebook Discussion group \(1\)
+* <http://facebook.com/group.php?gid=28698549395> - Esperanto Facebook Discussion group \(2\)
 
-* <http://twitter.com/esperanto> - Esperanto on Twitter (1)
-* <http://twitter.com/SpeakEsperanto> - Esperanto on Twitter (2)
+* <http://twitter.com/esperanto> - Esperanto on Twitter \(1\)
+* <http://twitter.com/SpeakEsperanto> - Esperanto on Twitter \(2\)
 * <http://twitter.com/search?q=%23esperanto> - Twitter statuses in Esperanto
 
 * <http://www.ipernity.com/explore/keyword/18539> - Esperanto on Ipernity
 * <http://www.ipernity.com/group/25524> - "Esperantujo" group on Ipernity
 
-* <http://groups.yahoo.com/group/101_ESPERANTO> - Esperanto on Yahoo Groups (1)
-* <http://groups.yahoo.com/group/102_ESPERANTO> - Esperanto on Yahoo Groups (2)
+* <http://groups.yahoo.com/group/101_ESPERANTO> - Esperanto on Yahoo Groups \(1\)
+* <http://groups.yahoo.com/group/102_ESPERANTO> - Esperanto on Yahoo Groups \(2\)
 
 ## News ##
 
@@ -261,9 +261,9 @@ title: Mnicky's Webpage
 
 * <http://ludanto.org/religio/kompendio.pdf> - Compendium of the Catechism of the Catholic Church
 
-* <http://esperanto.sorren.com/biblio/~el_sxadaj/kbiblio.htm> - Bible in Esperanto (1)
-* <http://esp.scripturetext.com> - Bible in Esperanto (2)
-* <http://steloj.de/esperanto/biblio> - Bible in Esperanto (3)
+* <http://esperanto.sorren.com/biblio/~el_sxadaj/kbiblio.htm> - Bible in Esperanto \(1\)
+* <http://esp.scripturetext.com> - Bible in Esperanto \(2\)
+* <http://steloj.de/esperanto/biblio> - Bible in Esperanto \(3\)
 * <http://reocities.com/cigneto/apokrifo/2kanone.html> - Deuterocanonical Books of Bible
 
 ## International Organizations ##
@@ -403,7 +403,7 @@ title: Mnicky's Webpage
 * <http://esperanto.wz.cz/Esp07.htm> - The largest Esperanto-Czech dictionary
 * <http://www.fw.hu/eventoj/steb/vortaroj/geologia-vortaro-cxeha-esperanta.htm> - Czech-esperanto geological dictionary
 
-* <http://kava-pech.cz> - Czech Esperanto publisher (1)
-* <http://www.espero.cz> - Czech Esperanto publisher (2)
+* <http://kava-pech.cz> - Czech Esperanto publisher \(1\)
+* <http://www.espero.cz> - Czech Esperanto publisher \(2\)
 
 * <http://abclinuxu.cz/blog/jalinh/esperanto> - Czech Esperanto blog
