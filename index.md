@@ -9,8 +9,8 @@ Hi, I'm **Mnicky** and this is my webpage.
 ## Info ##
 
 * **webpage:** <http://mnicky.github.com>
-* **email:** mnicky-at-gmail-dot-com
 * **git repos:** <https://github.com/mnicky>
+* **e-mail:** mnicky-at-gmail-dot-com
 
 ## Code ##
 
