@@ -1,3 +1,7 @@
+---
+title: Mnicky's Webpage
+---
+
 # Mnicky's Webpage #
 
 Hi, I'm **Mnicky** and this is my webpage.
