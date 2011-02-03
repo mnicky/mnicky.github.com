@@ -1,27 +1,29 @@
----
-title: Mnicky's Webpage
----
+<div style="margin-top:10%;margin-left:30%">
+
+= Mnicky's Webpage =
 
 Hi, I'm **Mnicky** and this is my webpage.
 
-Info
-----
-* **webpage:** http://mnicky.github.com
+== Info ==
+
+* **webpage:** [http://mnicky.github.com](http://mnicky.github.com)
 * **email:** mnicky-at-gmail-dot-com
-* **git repos:** https://github.com/mnicky
+* **git repos:** [https://github.com/mnicky](https://github.com/mnicky)
 
-Projects
---------
-* **TaskRoo** https://github.com/mnicky/taskroo
+== Code ==
 
-Links
------
-* Linux
-* Java
-* Esperanto
-* Christian
-* Misc
+* **[TaskRoo](https://github.com/mnicky/taskroo)** - simple todo list
 
-Other
------
+== Links ==
 
+* [Linux](/links/linux.html)
+* [Java](/links/java.html)
+* [Esperanto](/links/esperanto.html)
+* [Christian](/links/christian.html)
+* [Misc](/links/misc.html)
+
+== Other ==
+
+* [http://users.ninthfloor.org/~mnicky/](http://users.ninthfloor.org/~mnicky/) - misc stuff
+
+</div>
