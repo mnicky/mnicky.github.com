@@ -6,12 +6,12 @@ title: Mnicky's Webpage
 
 ## General Esperanto Pages ##
 
-* <http://esperanto.net> - Information and links to local Esperanto webpages
-* <http://esperanto.info> - General information about Esperanto
+* <http://esperanto.net> /- Information and links to local Esperanto webpages
+* <http://esperanto.info> /- General information about Esperanto
 
-* <http://eo.wikipedia.org> - Wikipedia in Esperanto
+* <http://eo.wikipedia.org> /- Wikipedia in Esperanto
 
-* <http://en.wikipedia.org/wiki/Esperanto> - Wikipedia article on Esperanto \(in English\)
+* <http://en.wikipedia.org/wiki/Esperanto> /- Wikipedia article on Esperanto \(in English\)
 
 ## Esperanto Links & Directories ##
 
