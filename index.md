@@ -2,21 +2,21 @@
 title: Mnicky's Webpage
 ---
 
-# Mnicky's Webpage #
+## Mnicky's Webpage ##
 
 Hi, I'm **Mnicky** and this is my webpage.
 
-## Info ##
+### Info ###
 
 * **webpage:** <http://mnicky.github.com>
 * **git repos:** <https://github.com/mnicky>
 * **e-mail:** xmnicky-at-gmail-dot-com
 
-## Code ##
+### Code ###
 
 * **[TaskRoo](https://github.com/mnicky/taskroo)** - simple todo list
 
-## Links ##
+### Links ###
 
 * [Linux](/links/linux.html)
 * [Java](/links/java.html)
@@ -24,6 +24,6 @@ Hi, I'm **Mnicky** and this is my webpage.
 * [Christian](/links/christian.html)
 * [Misc](/links/misc.html)
 
-## Misc ##
+#### Misc ####
 
 * <http://users.ninthfloor.org/~mnicky/> - misc stuff
