@@ -1,5 +1,6 @@
-<html><head><title>Mnicky's Webpage</title></head><body>
-
+---
+title: Mnicky's Webpage
+---
 
 Hi, I'm **Mnicky** and this is my webpage.
 
@@ -24,4 +25,3 @@ Links
 Other
 -----
 
-</body></html>
