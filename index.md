@@ -24,6 +24,6 @@ Hi, I'm **Mnicky** and this is my webpage.
 * [Christian](/links/christian.html)
 * [Misc](/links/misc.html)
 
-## Other ##
+## Misc ##
 
 * <http://users.ninthfloor.org/~mnicky/> - misc stuff
