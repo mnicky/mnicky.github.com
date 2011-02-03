@@ -129,7 +129,7 @@ title: Mnicky's Webpage
 * <http://ameriko.org/radiokubo> - mp3 archive of Radio Havano Kubo
 * <http://zervic.com/chitienun/> - Cxi tie nun \(offbeat news stories\)
 * <http://melburno.org.au/3ZZZradio> - archive of 3ZZZ Radio in Esperanto
-* <http://radioaktiva.esperanto.org.uy Radio Aktiva \(Uruguay\)
+* <http://radioaktiva.esperanto.org.uy> - Radio Aktiva \(Uruguay\)
 
 * <http://radiovaticana.org/esp/index.asp> - Radio Vaticana in Esperanto
 * <http://radio-vatikana-esperanto.org> - Archive of Radio Vaticana in Esperanto
@@ -203,7 +203,7 @@ title: Mnicky's Webpage
 ## Social Networks ##
 
 * <http://facebook.com/pages/Esperanto/112347282113529> - Esperanto Facebook fan page \(1\)
-* <http://facebook.com/pages/Esperanto/24436595789 Esperanto Facebook fan page \(2\)
+* <http://facebook.com/pages/Esperanto/24436595789> - Esperanto Facebook fan page \(2\)
 * <http://facebook.com/learn.esperanto> - Esperanto Facebook fan page \(3\)
 * <http://facebook.com/Esperanton> - Esperanto Facebook fan page \(4\)
 * <http://facebook.com/group.php?gid=2204470288> - Esperanto Facebook Discussion group \(1\)
@@ -235,7 +235,7 @@ title: Mnicky's Webpage
 
 * <http://mondakalendaro.org> - World Esperanto events
 * <http://ikso.net/kaest> - Conference about application of Esperanto in Science and Technics
-* <http://www.eventoj.hu> - Esperanto events> - Budapest, Hungaria
+* <http://www.eventoj.hu> - Esperanto events - Budapest, Hungaria
 
 ## Christian Esperanto Links ##
 

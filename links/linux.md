@@ -8,34 +8,34 @@ title: Mnicky's Webpage
 
 ## Why Linux? ##
 
-* <http://proc.linux.cz] - Proc pouzivat operacni system Linux
+* <http://proc.linux.cz> - Proc pouzivat operacni system Linux
 * <http://www.whylinuxisbetter.net/index_svk.php?lang=svk> - Why Linux is better \(v slovencine ;-\)
 * <http://www.getgnulinux.org> - Get GNU/Linux
 * <http://en.windows7sins.org> - Windows 7 sins
 
-## Uvod do Linuxu pre zaciatocnikov ##
+## Linux Introduction for beginners ##
 
 * <http://proc.linux.cz/chci-vyzkouset.html> - Chci si Linux vyzkouset na svem pocítaci - ako na to...
 * <http://www.linuxexpres.cz/o-linuxu> - Uvod do Linuxu
 * <http://tuxradar.com/newtolinux> - Linux frequently asked questions for newbies
 
-## Kde hladat pomoc ##
+## Where to get a help ##
 
 * <http://wiki.ubuntu.cz> - Oficialna ceska Ubuntu Wiki
 * <http://forum.ubuntu.cz> - Oficialne ceske Ubuntu forum
-* <http://linuxos.sk> - LinuxOS.sk > Otazky novacikov
-* <http://forum.root.cz> - Root.cz > Forum
-* <http://www.linuxon.sk/forum> - LinuxON.sk > Forum
+* <http://linuxos.sk> - LinuxOS.sk - Otazky novacikov
+* <http://forum.root.cz> - Root.cz - Forum
+* <http://www.linuxon.sk/forum> - LinuxON.sk - Forum
 * <http://ask.debian.net]
 
-Pre pokrocilejsich
+## For advanced ##
 
 * <http://www.abclinuxu.cz/ucebnice/obsah> - Ucebnice GNU/Linuxu
 * <http://deja-vix.sk/sysadmin/> - Prirucka systemoveho administratora
 * <http://www.linuxguide.it/command_line/linux_commands_cz.html> - Uzitocne prikazy prikazoveho riadku \(cz\)
 * <http://tldp.org> - The Linux Documentation Project
 
-## Distribucie ##
+## Distribtions ##
 
 * <http://www.ubuntu.cz> - Ubuntu - ceska stranka
 * <http://www.ubuntu.com> - Ubuntu - oficialna medzinarodna stranka
@@ -51,7 +51,7 @@ Pre pokrocilejsich
 
 * <http://alternativeto.net> - Alternatives to Windows, Mac, Linux software...
 
-## Linuxove portaly ##
+## Linux portals ##
 
 * <http://www.abclinuxu.cz> -
 * <http://www.root.cz> -
@@ -72,7 +72,7 @@ Pre pokrocilejsich
 * <http://www.debian-news.net> -
 * <http://olinuxe.tk> -
 
-## Dalsie dobre stranky ##
+## Misc ##
 
 * <http://www.ubuntugeek.com> -
 * <http://www.workswithu.com> -

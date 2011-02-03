@@ -111,8 +111,8 @@ title: Mnicky's Webpage
 * <http://www.javapractices.com> - Java practices, tasks, and designs
 * <http://www.java-tips.org> - Java tips
 * <http://www.leepoint.net/notes-java> - Java programming notes
-* <http://www.java2s.com> - SourceCode examples
-* <http://www.exampledepot.com> - SourceCode examples
+* <http://www.java2s.com> - Source code examples
+* <http://www.exampledepot.com> - Source code examples
 * <http://www.example-code.com/java/> - Chilkat Java Examples
 * <http://www.javaperformancetuning.com> - Java Performance Tuning
 
@@ -126,7 +126,7 @@ title: Mnicky's Webpage
 * <http://www.netbeans.org> - Netbeans
 * <http://www.eclipse.org> - Eclipse
 * <http://www.embarcadero.com/products/jbuilder> - Borland Jbuilder
-* <http://www.jetbrains.com/idea> - Intellij Idea \(commercial; OpenSource community version: <http://www.jetbrains.org>\)
+* <http://www.jetbrains.com/idea> - Intellij Idea \(commercial; Opensource community version: <http://www.jetbrains.org>\)
 * <http://www.jedit.org> - JEdit
 * <http://jvi.sourceforge.net> - Java Vi
 
@@ -160,7 +160,7 @@ title: Mnicky's Webpage
 
 * <http://www.scala-lang.org> - Scala - designed to integrate Object Oriented Programming and Functional Programming
 * <http://clojure.org> - Clojure - modern dialect of the Lisp for the JVM
-* <http://groovy.codehaus.org> - Groovy - DynamicLanguage for the JavaPlatform
+* <http://groovy.codehaus.org> - Groovy - Dynamic language for the JVM
 * <http://www.jruby.org> - JRuby - implementation of the Ruby
 * <http://www.jython.org> - Jython - implementation of the Python
 * <http://www.beanshell.org> - BeanShell - Java Scripting Language
