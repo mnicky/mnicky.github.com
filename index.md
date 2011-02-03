@@ -1,5 +1,3 @@
-<div style="margin-top:10%;margin-left:30%">
-
 = Mnicky's Webpage =
 
 Hi, I'm **Mnicky** and this is my webpage.
@@ -25,5 +23,3 @@ Hi, I'm **Mnicky** and this is my webpage.
 == Other ==
 
 * [http://users.ninthfloor.org/~mnicky/](http://users.ninthfloor.org/~mnicky/) - misc stuff
-
-</div>
