@@ -8,9 +8,9 @@ Hi, I'm **Mnicky** and this is my webpage.
 
 ## Info ##
 
-* **webpage:** [http://mnicky.github.com](http://mnicky.github.com)
+* **webpage:** <http://mnicky.github.com>
 * **email:** mnicky-at-gmail-dot-com
-* **git repos:** [https://github.com/mnicky](https://github.com/mnicky)
+* **git repos:** <https://github.com/mnicky>
 
 ## Code ##
 
@@ -26,4 +26,4 @@ Hi, I'm **Mnicky** and this is my webpage.
 
 ## Other ##
 
-* [http://users.ninthfloor.org/~mnicky/](http://users.ninthfloor.org/~mnicky/) - misc stuff
+* <http://users.ninthfloor.org/~mnicky/> - misc stuff
