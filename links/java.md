@@ -34,6 +34,7 @@ title: Mnicky's Webpage
 
 ## Java Tutorials from Sun ##
 
+* <http://tutorialspoint.com/java> - Quick Java Tutorial
 * <http://java.sun.com/docs/books/tutorial/> - Official Sun Java Tutorial \(index of pages: <http://java.sun.com/docs/books/tutorial/reallybigindex.html>\)
 * <http://java.sun.com/webservices/tutorial.html> - Java Web Services Tutorial
 * <http://java.sun.com/javaee/reference/tutorials/> - Java Enterprise Edition Tutorials
