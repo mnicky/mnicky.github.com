@@ -11,6 +11,7 @@ title: Mnicky's Webpage
 
 * **webpage:** <http://mnicky.github.com>
 * **git repos:** <https://github.com/mnicky>
+* **twitter:** [@xmnicky](http://twitter.com/xmnicky)
 * **e-mail:** xmnicky \[at\] gmail.com
 
 **Code**
