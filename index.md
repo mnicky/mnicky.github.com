@@ -3,9 +3,9 @@ title: Mnicky's Webpage
 ---
 
 ## Mnicky's Webpage ##
-  
-  
-  
+
+
+
 
 **Info**
 
@@ -15,7 +15,7 @@ title: Mnicky's Webpage
 
 **Code**
 
-* **[TaskRoo](https://github.com/mnicky/taskroo)** - simple todo list
+* **[Bible4j](https://github.com/mnicky/bible4j)** - Bible viewer for command line
 
 **Links**
 
