@@ -8,6 +8,7 @@ title: Mnicky's Webpage
 
 * <http://norvig.com/21-days.html> \- Teach Yourself Programming In Ten Years by Peter Norvig
 * <http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html> \- Vim graphical cheat sheet tutorial
+* <http://batsov.com/2011/04/27/programming-languages-worth-learning.html> \- Collection of interesting programming languages
 
 ## Language learning tips etc. ##
 
