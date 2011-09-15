@@ -25,3 +25,19 @@ title: Mnicky's Webpage
 ## Slovak & Czech Links ##
 
 * <http://naucte-se.haskell.cz/kapitoly> \- Haskell Learning Tutorial
+
+## 10 Oneliners To Impress Your Friends ##
+
+* <http://is.gd/scalaOneLiners> \- Scala
+* <http://is.gd/coffeeScriptOneLiners> \- Coffee Script
+* <http://is.gd/rubyOneLiners> \- Ruby
+* <http://is.gd/pythonOneLiners> \- Python
+* <http://is.gd/haskellOneLiners> \- Haskell
+* <http://is.gd/clojureOneLiners> \- Clojure
+* <http://is.gd/cSharpOneLiners> \- C#
+* <http://is.gd/fSharpOneLiners> \- F#
+* <http://is.gd/groovyOneLiners> \- Groovy
+* <http://is.gd/PhpOneLiners> \- PHP
+* <http://is.gd/ROneLiners> \- R
+* <http://is.gd/PerlOneLiners> \- Perl
+* <http://is.gd/SmalltalkOneLiners> \- Smalltalk
