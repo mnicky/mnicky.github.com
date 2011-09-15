@@ -26,7 +26,7 @@ title: Mnicky's Webpage
 
 * <http://naucte-se.haskell.cz/kapitoly> \- Haskell Learning Tutorial
 
-## 10 Oneliners To Impress Your Friends ##
+## 10 One Liners To Impress Your Friends ##
 
 * <http://is.gd/scalaOneLiners> \- Scala
 * <http://is.gd/coffeeScriptOneLiners> \- CoffeeScript
