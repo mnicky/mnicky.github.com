@@ -29,6 +29,7 @@ title: Mnicky's Webpage
 ## 10 One Liners To Impress Your Friends ##
 
 * <http://is.gd/scalaOneLiners> \- Scala
+* <http://is.gd/scalaOneLiners2> \- Scala v2
 * <http://is.gd/coffeeScriptOneLiners> \- CoffeeScript
 * <http://is.gd/rubyOneLiners> \- Ruby
 * <http://is.gd/pythonOneLiners> \- Python
@@ -37,7 +38,11 @@ title: Mnicky's Webpage
 * <http://is.gd/cSharpOneLiners> \- C#
 * <http://is.gd/fSharpOneLiners> \- F#
 * <http://is.gd/groovyOneLiners> \- Groovy
+* <http://is.gd/groovyOneLiners2> \- Groovy v2
 * <http://is.gd/PhpOneLiners> \- PHP
 * <http://is.gd/ROneLiners> \- R
 * <http://is.gd/PerlOneLiners> \- Perl
 * <http://is.gd/SmalltalkOneLiners> \- Smalltalk
+* <http://is.gd/schemeOneLiners> \- Scheme
+* <http://is.gd/ioOneLiners> \- Io
+* <http://is.gd/javaOneLiners> \- Functional Java
