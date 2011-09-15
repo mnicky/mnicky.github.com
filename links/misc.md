@@ -29,7 +29,7 @@ title: Mnicky's Webpage
 ## 10 Oneliners To Impress Your Friends ##
 
 * <http://is.gd/scalaOneLiners> \- Scala
-* <http://is.gd/coffeeScriptOneLiners> \- Coffee Script
+* <http://is.gd/coffeeScriptOneLiners> \- CoffeeScript
 * <http://is.gd/rubyOneLiners> \- Ruby
 * <http://is.gd/pythonOneLiners> \- Python
 * <http://is.gd/haskellOneLiners> \- Haskell
