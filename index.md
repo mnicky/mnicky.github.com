@@ -28,4 +28,4 @@ title: Mnicky's Webpage
 
 **Misc**
 
-* <http://users.ninthfloor.org/~mnicky/> - misc stuff
+* <http://mnicky.ninth.su> - misc stuff
