@@ -12,10 +12,10 @@ title: Mnicky's Webpage
 
 ## Language learning tips etc. ##
 
-* <http://how-to-learn-any-language.com
-* <http://micheloud.com/FXM/la/index.htm
-* <http://language-learning-advisor.com
-* <http://language-learning-tips.com
+* <http://how-to-learn-any-language.com>
+* <http://micheloud.com/FXM/la/index.htm>
+* <http://language-learning-advisor.com>
+* <http://language-learning-tips.com>
 
 ## Misc Language Sites ##
 
