@@ -46,3 +46,4 @@ title: Mnicky's Webpage
 * <http://is.gd/schemeOneLiners> \- Scheme
 * <http://is.gd/ioOneLiners> \- Io
 * <http://is.gd/javaOneLiners> \- Functional Java
+* <http://is.gd/factorOneLiners> \- Factor
